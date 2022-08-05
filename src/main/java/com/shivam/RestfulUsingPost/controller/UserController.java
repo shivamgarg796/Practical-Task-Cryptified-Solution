@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shivam.RestfulUsingPost.exception.NullException;
 import com.shivam.RestfulUsingPost.services.ResponsePojo;
 import com.shivam.RestfulUsingPost.services.UserService;
 
